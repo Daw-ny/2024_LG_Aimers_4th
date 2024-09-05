@@ -32,7 +32,7 @@
 <td>  <div  align=center>  <b>김도연</b>  </div>  </td>
 <td>  <div  align=center>  <b>김다운</b>  </div>  </td>
 <td>  <div  align=center>  <b>신동혁</b>  </div>  </td>
-<td>  <div  align=center>  <b>서준혁(수정필요)</b>  </div>  </td>
+<td>  <div  align=center>  <b>서준혁</b>  </div>  </td>
 </tr>
 <tr>
 <td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/a4dbcdb5-1d28-4b91-8555-1168abffc1d0"  width="250"  height="300"/>  </td>
